@@ -2,7 +2,7 @@
 
 This application that can be used to sync (and then view) data from Salesforce using Heroku Connect.
 
-It supports the [Hello World](https://devcenter.heroku.com/articles/getting-started-with-heroku-and-connect-without-local-dev) article - go check it out.
+It supports the [Getting Started on Heroku with Heroku Connect](https://devcenter.heroku.com/articles/getting-started-with-heroku-and-connect-without-local-dev) article - go check it out.
 
 The article demonstrates how to set up and manage this app without requiring you to install any development tools.
 
